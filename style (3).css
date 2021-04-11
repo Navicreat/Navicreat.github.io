@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+	@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
+
+
+
+.header {
+background-color: black;
+ width:100%;
+ height:400px;
+color: #00e5ff;
+font-size: 70px;
+text-align: center;
+
+
+}
+.content{
+background-color:  grey;
+width: 80%;
+
+height:500px;
+text-align: left;
+color: black;
+font-size: 30px;
+float: left;
+}
+
+
+.footer {
+	width: 100%;
+	height: 110px;
+	background-color: #525252;
+	text-align: center;
+	font-size: 20px;
+}  
+
+
+
+.header img{
+	float: center;
+	width: 90%;
+	height: 400px;}
+}
+
+
+.header {
+background-color: grey;
+ width:100%;
+ height:400px;
+color: #00e5ff;
+font-size: 70px;
+text-align: center;
+
+
+}
+
+
+.content{
+background-color:  grey;
+width: 80%;
+
+height:900px;
+text-align: left;
+color: black;
+font-size: 30px;
+float: left;
+}
+
+
+.header img{
+	float: center;
+	width: 90%;
+	height: 400px;}
+
+.menu{
+	background-color: #4a4a4a;
+width: 20%;
+float: right;
+height: 900px
+}
+
+.menu ul{
+	list-style: none;
+	color: white;
+	
+
+}
+
+.menu li{
+	width: 100%;
+	display: inline-block;
+	padding: 60px 5px;
+	color: white
+}
+
+.menu li:hover{
+	background-color: white;
+	color: black
+}
+
+
+.slider img{
+	height: 782px;
+	margin: 0 auto;
+}
+
+
+
+.menu  h1{
+	text-align: center;
+	color: white;
+}
+
+
+.menu{
+	font-family: 'Roboto', sans-serif;
+}
+.content h1{
+	font-family: 'Roboto', sans-serif;}
+
+
+
+
+h2{
+	height: 90px;
+}
+a h2{
+	color: purple;
+}
+
+body{
+	background: url(https://t4.ftcdn.net/jpg/03/17/71/71/360_F_317717151_RpmWY8kACkp3lnPAuPpt76DGRB2M8cGQ.jpg)
+	
+}
